@@ -4,6 +4,6 @@ I'm a full-stack web developer who loves creating websites and applications for 
 
 ## You can check out my code on GitHub or visit my website to learn more about me.
 
-[![Website]([https://img.shields.io/badge/website-your_website_url-blue)](https://your_website_url](http://shiddharth-portfolio.vercel.app/))
+[![Website](https://img.shields.io/badge/website-your_website_url-blue)](http://shiddharth-portfolio.vercel.app/)
 
 I'm always open to new opportunities and challenges, so feel free to reach out if you want to collaborate or chat. 😊
