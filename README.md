@@ -2,7 +2,7 @@
 
 I'm Shiddharth Choudhari, a full-stack web developer with hands-on experience on both front-end and back-end technologies. I'm passionate about building scalable, responsive and user-friendly web applications that solve real-world problems.
 
-## About me
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 I have a bachelor's degree in information science and engineering.
 - 🌱 I'm currently learning more about cloud computing and DevOps practices.
@@ -10,7 +10,7 @@ I'm Shiddharth Choudhari, a full-stack web developer with hands-on experience on
 - 📚 I love to read books and blogs on web development, programming and entrepreneurship.
 - 🎮 I enjoy playing video games and watching movies in my free time.
 
-## Languages and Tools
+### 🛠 &nbsp;Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -35,7 +35,7 @@ I'm Shiddharth Choudhari, a full-stack web developer with hands-on experience on
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
-## Connect with me
+### 🤝🏻 &nbsp;Connect with Me 
 
 I'm always open to new opportunities and challenges, so feel free to reach out if you want to collaborate or chat.
 
